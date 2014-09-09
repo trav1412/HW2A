@@ -7,8 +7,7 @@ def showTwopictures():
   mypic2 = makePicture(pic2)
   show(mypic1)
   show(mypic2)
-# Replicate recipe and apply to command area to show second picture
-    
+  
 def printinvite():
     print("Travis woud you like to you invite you for his 21st birthday")
     
